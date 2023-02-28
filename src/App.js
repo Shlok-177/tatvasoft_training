@@ -1,10 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
+import Footer from './Footer';
+import Navbar from './Navbar';
 
 function App() {
   return (
       <h1>
-        Hey Introduction of React is commpleted
+        <Navbar />
+        Hey Introduction of React is completed
+        <Footer />
       </h1>
   );
 }

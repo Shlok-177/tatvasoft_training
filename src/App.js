@@ -8,7 +8,7 @@ function App() {
       <h1>
         <Navbar />
         Hey Introduction of React is completed
-        <Footer />
+        <Footer data = "shlok" />
       </h1>
   );
 }
